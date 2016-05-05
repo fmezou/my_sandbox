@@ -2,4 +2,4 @@
 My sandbox repository on GitHub for testing GitHub features.
 It's a dummy project.
 
-Consider the #2
+Consider the #2 and the #3
