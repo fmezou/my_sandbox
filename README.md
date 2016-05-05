@@ -1,5 +1,5 @@
 # my_sandbox
-Ad a new task with new features
+Ad a new task with new features and a hot fix
 
 My sandbox repository on GitHub for testing GitHub features.
 It's a dummy project.
